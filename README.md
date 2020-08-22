@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <p><small>Currículo: </small><br />
   <a href="https://github.com/roberto-paulo/roberto-paulo/raw/master/resume.pdf">
     <img
-         src="https://img.shields.io/badge/-English-1F6B75.svg?&style=flat-square&logo=DocuSign&logoColor=white"
+         src="https://img.shields.io/badge/-Português-1F6B75.svg?&style=flat-square&logo=DocuSign&logoColor=white"
          alt="English"
     />
   </a>
