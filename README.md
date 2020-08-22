@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ![Github Status](https://github-readme-stats.vercel.app/api?username=roberto-paulo&show_icons=true)
 <p><small>Currículo: </small><br />
-  <a href="https://github.com/roberto-paulo/roberto-paulo/raw/master/resume.pdf">
+  <a href="https://github.com/Roberto-Paulo/Roberto-Paulo/blob/master/CURRICULO-ROBERTO%20PAULO%20GOMES.pdf">
     <img
          src="https://img.shields.io/badge/-Português-1F6B75.svg?&style=flat-square&logo=DocuSign&logoColor=white"
          alt="English"
