@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+![Github Status](https://github-readme-stats.vercel.app/api?username=roberto-paulo&show_icons=true)
