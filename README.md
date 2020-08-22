@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![Github Status](https://github-readme-stats.vercel.app/api?username=roberto-paulo&show_icons=true)
 <p><small>Resume: </small><br />
-  <a href="https://github.com/rob-ec/rob-ec/raw/master/resume.pdf">
+  <a href="https://github.com/roberto-paulo/roberto-paulo/raw/master/resume.pdf>
     <img
          src="https://img.shields.io/badge/-English-1F6B75.svg?&style=flat-square&logo=DocuSign&logoColor=white"
          alt="English"
